@@ -2,9 +2,12 @@
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,700i,800');
 
+body {
+    font-family: "Open Sans";
+}
+
 .buttons {
     background: #151420;
-    font-family: "Open Sans";
     padding-top: 5px;
     padding-bottom: 5px;
 }
