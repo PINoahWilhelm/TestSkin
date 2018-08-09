@@ -13,11 +13,13 @@
 .ipsClockWidget {
 
     background: #151420 !important;
+    border-bottom: 3px solid #151420;
 
 }
 
 .sub {
 
     background: #151420 !important;
+    border-bottom: #151420;
 
 }
