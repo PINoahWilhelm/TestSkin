@@ -1,4 +1,11 @@
 /* place all your custom css here */
 .buttons {
     background: green !important;
+    font-family: "Arial";
+}
+.ipsContainer {
+
+    color: blue;
+    background: #151420;
+
 }
