@@ -19,6 +19,15 @@ body {
 
 }
 
+.title::before {
+    width: 150px;
+    height: 80px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-image: url('https://pbs.twimg.com/profile_images/553231986223886337/Z2N7q12V.png');
+}
+
 .ipsContainer, .ipsPanel, .scrollLeft, .scrollRight {
 
     color: white;
