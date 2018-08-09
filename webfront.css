@@ -13,7 +13,7 @@ body {
     font-family: "Open Sans";
 }
 
-.navigation:nth-of-type(2) {
+.navigation > .navigation {
 
     margin-top: 5px;
 
