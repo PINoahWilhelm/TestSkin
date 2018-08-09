@@ -12,7 +12,7 @@ body {
     padding-bottom: 5px;
     font-family: "Open Sans";
 }
-.ipsContainer, .ipsPanel {
+.ipsContainer, .ipsPanel, .scrollLeft, .scrollRight {
 
     color: white;
     background: #151420 !important;
