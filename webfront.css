@@ -1,11 +1,11 @@
 /* place all your custom css here */
 .buttons {
-    background: green !important;
+    background: #151420;
     font-family: "Arial";
 }
-.ipsContainer {
+.ipsContainer, .ipsPanel {
 
-    color: blue;
-    background: #151420;
+    color: white;
+    background: #151420 !important;
 
 }
