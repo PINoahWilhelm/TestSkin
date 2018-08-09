@@ -19,6 +19,12 @@ body {
 
 }
 
+.ipsContainer .selected {
+
+    background: #08080c;
+
+}
+
 .ipsClockWidget {
 
     background: #151420 !important;
