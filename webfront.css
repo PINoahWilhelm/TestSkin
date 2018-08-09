@@ -13,10 +13,9 @@ body {
     font-family: "Open Sans";
 }
 
-.content > .navigation {
+.navigation {
 
     margin-top: 5px;
-    background: yellow;
 
 }
 
