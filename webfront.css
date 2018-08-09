@@ -38,3 +38,13 @@ body {
     border-bottom: #151420;
 
 }
+
+.title {
+    color: white;
+    transition: 0.1s ease;
+}
+
+.title:hover {
+    transition: 0.1s ease;
+    color: grey;
+}
